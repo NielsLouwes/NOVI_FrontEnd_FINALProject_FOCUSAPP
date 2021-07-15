@@ -1,6 +1,6 @@
-#READ ME
+**#READ ME**
 
-#Installation Guide
+**#Installation Guide**
 
 This app was created using the following pacakges.
 1. React
