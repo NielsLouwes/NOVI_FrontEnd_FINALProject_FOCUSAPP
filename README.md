@@ -20,5 +20,8 @@ To use the app, simply create a new account via Register and then Login.
 
 6. Prop Types - used for creating the Embedded video component for Youtube  -- npm install --save prop-types.
 
+7. API Keys
+
+Youtube API key :  "AIzaSyDZT_Ag1h4M83qwW-WZvyCR_MBrBJzdPvM";
 
 
