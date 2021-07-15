@@ -12,13 +12,13 @@ Screenshots of the website below:
 
 This app was created using the following pacakges. Install these after cloing the project.
 
-1. React - npm install React 
-2. Axios - npm install axios - for making API calls to the Youtube API.
-3. React-router-dom - npm install react-router-dom - used for Links, Redirects, Switch and Routing.
-4. Firebase - for user login and registration and authentication. Use  npm install --save firebase.
+1. React - **npm install React **
+2. Axios - **npm install axios** - for making API calls to the Youtube API.
+3. React-router-dom - **npm install react-router-dom** - used for Links, Redirects, Switch and Routing.
+4. Firebase - for user login and registration and authentication. Use  **npm install --save firebase**.
 To use the app, simply create a new account via Register and then Login.
 
-6. Prop Types - used for creating the Embedded video component for Youtube  -- npm install --save prop-types.
+6. Prop Types - used for creating the Embedded video component for Youtube  -- **npm install --save prop-types**.
 
 7. API Keys
 
