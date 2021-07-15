@@ -11,9 +11,9 @@ Screenshots of the website below:
 
 **#Installation Guide**
 
-This app was created using the following pacakges. Install these after cloing the project.
+This app was created using the following packages. Install these after cloning the project.
 
-1. React - **npm install React **
+1. React - **npm install React**
 2. Axios - **npm install axios** - for making API calls to the Youtube API.
 3. React-router-dom - **npm install react-router-dom** - used for Links, Redirects, Switch and Routing.
 4. Firebase - for user login and registration and authentication. Use  **npm install --save firebase**.
