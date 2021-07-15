@@ -23,5 +23,8 @@ To use the app, simply create a new account via Register and then Login.
 7. API Keys
 
 Youtube API key :  "AIzaSyDZT_Ag1h4M83qwW-WZvyCR_MBrBJzdPvM";
+Firebase API: "AIzaSyDNuY-FS_7AZorOW5IXSX8IZCQRr2Djf1A"
+
+
 
 
