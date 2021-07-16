@@ -21,7 +21,8 @@ To use the app, simply create a new account via Register and then Login.
 
 6. Prop Types - used for creating the Embedded video component for Youtube  -- **npm install --save prop-types**.
 
-
+This application loads information using the Youtube Data API v3.
+To use it, you need to set up a Youtube Data v3 API key and run the project with npm or yarn.
 
 
 
