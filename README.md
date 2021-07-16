@@ -4,9 +4,9 @@
 This is a Youtube based app that is focused on helping users find music to study or focus to.
 It offers a few different pages to visit based on the selected music genre. Users can navigate between different music genres or choose the "Study Live" section which offers videos of anyone who is currently livestreaming. 
 
-Screenshots of the website below:
+Screenshots of the application.
 
-![image](https://user-images.githubusercontent.com/76694402/125815720-98bb059c-2471-4a68-a827-42957a265edf.png)
+![image](https://user-images.githubusercontent.com/76694402/125972861-a080044e-f9a0-477f-b83c-8b15b1bb23d2.png)
 
 ![image](https://user-images.githubusercontent.com/76694402/125972609-2c21759d-8c65-46d1-8a27-50e29342d968.png)
 
