@@ -8,6 +8,13 @@ Screenshots of the website below:
 
 ![image](https://user-images.githubusercontent.com/76694402/125815720-98bb059c-2471-4a68-a827-42957a265edf.png)
 
+![image](https://user-images.githubusercontent.com/76694402/125972609-2c21759d-8c65-46d1-8a27-50e29342d968.png)
+
+![image](https://user-images.githubusercontent.com/76694402/125972688-46774dac-2eda-4682-9a52-d938f25124db.png)
+
+![image](https://user-images.githubusercontent.com/76694402/125972754-5946d765-5575-4017-b182-39292377a2d9.png)
+
+
 
 **#Installation Guide**
 
